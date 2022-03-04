@@ -1,0 +1,6 @@
+work
+*.out
+*.sif
+.nextflow
+.nextflow.log
+.nextflow.log.*
