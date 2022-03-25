@@ -1,0 +1,24 @@
+cpu-bind=MASK - cn490, task  0  0 [26563]: mask 0x40000 set
+
+Currently Loaded Modules:
+  1) GCCcore/.9.3.0                   (H)
+  2) zlib/.1.2.11-GCCcore-9.3.0       (H)
+  3) binutils/.2.34-GCCcore-9.3.0     (H)
+  4) GCC/9.3.0
+  5) numactl/.2.0.13-GCCcore-9.3.0    (H)
+  6) XZ/.5.2.5-GCCcore-9.3.0          (H)
+  7) libxml2/.2.9.10-GCCcore-9.3.0    (H)
+  8) libpciaccess/.0.16-GCCcore-9.3.0 (H)
+  9) hwloc/.2.2.0-GCCcore-9.3.0       (H)
+ 10) libevent/.2.1.11-GCCcore-9.3.0   (H)
+ 11) UCX/1.8.0-GCCcore-9.3.0
+ 12) libfabric/1.11.0-GCCcore-9.3.0
+ 13) PMIx/3.1.5-GCCcore-9.3.0
+ 14) OpenMPI/4.0.3-GCC-9.3.0
+
+  Where:
+   H:  Hidden Module
+
+ 
+
+Hello, I am rank 2/4Hello, I am rank 3/4Hello, I am rank 1/4Hello, I am rank 0/4
