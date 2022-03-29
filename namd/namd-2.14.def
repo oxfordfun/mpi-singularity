@@ -1,0 +1,42 @@
+Bootstrap: docker
+From: ubuntu:20.04
+
+%environment
+export PATH=/opt/NAMD_2.14_Source/Linux-x86_64-g++:/opt/NAMD_2.14_Source/charm-6.10.2/ucx-linux-x86_64-ompipmix/bin:$PATH
+export LD_LIBRARY_PATH=/opt/NAMD_2.14_Source/lib:/opt/NAMD_2.14_Source/charm-6.10.2/ucx-linux-x86_64-ompipmix/bin:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/opt/openmpi-4.0.3/build/lib:$LD_LIBRARY_PATH
+export PATH=/opt/openmpi-4.0.3/build/bin:$LD_LIBRARY_PATH
+export TZ=Europe/UK
+
+%post
+
+ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+apt update
+apt install -y tzdata
+
+echo "Installing required packages..."
+
+apt-get update && apt-get install -y wget vim git csh libssl-dev hwloc libpmix2 libev-dev gcc build-essential g++
+
+cd /opt
+wget https://www.ks.uiuc.edu/Research/namd/2.14/download/946183/NAMD_2.14_Source.tar.gz
+tar -xvf NAMD_2.14_Source.tar.gz
+
+apt-get install -y autoconf libtool
+git clone https://github.com/openucx/ucx.git
+cd ucx
+./autogen.sh
+./contrib/configure-release --prefix=/opt/ucx/build
+make -j16
+make install
+
+wget https://download.open-mpi.org/release/open-mpi/v4.0/openmpi-4.0.3.tar.gz
+tar -xf openmpi-4.0.3.tar.gz
+cd openmpi-4.0.3
+./configure --enable-mca-no-build=btl-uct --with-slurm --with-pmix --prefix=/opt/openmpi-4.0.3/build
+make -j16
+make install
+export PATH=/opt/openmpi-4.0.3/build/bin:$PATH
+export LD_LIBRARY_PATH=/opt/openmpi-4.0.3/build/lib:$LD_LIBRARY_PATH
+
