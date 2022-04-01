@@ -1,0 +1,4 @@
+hostname
+uptime
+module avail
+module list
