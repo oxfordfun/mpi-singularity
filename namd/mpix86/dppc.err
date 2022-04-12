@@ -1,0 +1,22 @@
+cpu-bind=MASK - cn493, task  0  0 [31324]: mask 0xff00 set
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[24608,1],4]
+  Exit code:    1
+--------------------------------------------------------------------------

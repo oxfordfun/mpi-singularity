@@ -1,0 +1,3536 @@
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0107155 s
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+CharmLB> Load balancer assumes all CPUs are same.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+CharmLB> Load balancer assumes all CPUs are same.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.010672 s
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0108175 s
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> No provisioning arguments specified. Running with a single PE.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> No provisioning arguments specified. Running with a single PE.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+CharmLB> Load balancer assumes all CPUs are same.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+CharmLB> Load balancer assumes all CPUs are same.
+CharmLB> Load balancer assumes all CPUs are same.
+CharmLB> Load balancer assumes all CPUs are same.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0129659 s
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Charm++> cpu topology info is gathered in 0.001 seconds.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> No provisioning arguments specified. Running with a single PE.
+Charm++> cpu topology info is gathered in 0.001 seconds.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0105767 s
+Info: Charm++/Converse parallel runtime startup completed at 0.0119502 s
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0147028 s
+CharmLB> Load balancer assumes all CPUs are same.
+CharmLB> Load balancer assumes all CPUs are same.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> No provisioning arguments specified. Running with a single PE.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0165732 s
+Charm++> No provisioning arguments specified. Running with a single PE.
+Charm++> No provisioning arguments specified. Running with a single PE.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> No provisioning arguments specified. Running with a single PE.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+CharmLB> Load balancer assumes all CPUs are same.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.013965 s
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+CharmLB> Load balancer assumes all CPUs are same.
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0109359 s
+CharmLB> Load balancer assumes all CPUs are same.
+CharmLB> Load balancer assumes all CPUs are same.
+CharmLB> Load balancer assumes all CPUs are same.
+CharmLB> Load balancer assumes all CPUs are same.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0108246 s
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: Changed directory to /run_x86
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0135009 s
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: Changed directory to /run_x86
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+CharmLB> Load balancer assumes all CPUs are same.
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: Changed directory to /run_x86
+CharmLB> Load balancer assumes all CPUs are same.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Charm++> No provisioning arguments specified. Running with a single PE.
+TCL: Suspending until startup complete.
+TCL: Suspending until startup complete.
+TCL: Suspending until startup complete.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0111651 s
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Charm++: standalone mode (not using charmrun)
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: CPU topology information available.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: Charm++/Converse parallel runtime startup completed at 0.0108843 s
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> No provisioning arguments specified. Running with a single PE.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0164781 s
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0111055 s
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Info: Charm++/Converse parallel runtime startup completed at 0.012832 s
+Charm++: standalone mode (not using charmrun)
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Info: Charm++/Converse parallel runtime startup completed at 0.0113924 s
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+CharmLB> Load balancer assumes all CPUs are same.
+Info: Changed directory to /run_x86
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+TCL: Suspending until startup complete.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+CharmLB> Load balancer assumes all CPUs are same.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> cpu topology info is gathered in 0.004 seconds.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+TCL: Suspending until startup complete.
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.010913 s
+Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+CharmLB> Load balancer assumes all CPUs are same.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+TCL: Suspending until startup complete.
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+CharmLB> Load balancer assumes all CPUs are same.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0144737 s
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: Optimizing 6 FFT steps.  1...Info: NO VELOCITY DCD OUTPUT
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: Optimizing 6 FFT steps.  1...Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+TCL: Suspending until startup complete.
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: Optimizing 6 FFT steps.  1...Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn495.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.011941 s
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0116888 s
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: Optimizing 6 FFT steps.  1...Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+Info: Optimizing 6 FFT steps.  1...Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0128718 s
+Info: Optimizing 6 FFT steps.  1...Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+TCL: Suspending until startup complete.
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Charm++> No provisioning arguments specified. Running with a single PE.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn493.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0108868 s
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn494.scarf.rl.ac.uk  scarf1084
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Info: CPU topology information available.
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Info: Charm++/Converse parallel runtime startup completed at 0.0150766 s
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+CharmLB> Load balancer assumes all CPUs are same.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+CharmLB> Load balancer assumes all CPUs are same.
+Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: Optimizing 6 FFT steps.  1...CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+CharmLB> Load balancer assumes all CPUs are same.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+TCL: Suspending until startup complete.
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Charm++> cpu topology info is gathered in 0.002 seconds.
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: Optimizing 6 FFT steps.  1...Info: Optimizing 6 FFT steps.  1...Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+TCL: Suspending until startup complete.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+Info: Changed directory to /run_x86
+CharmLB> Load balancer assumes all CPUs are same.
+Info: Optimizing 6 FFT steps.  1...Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+TCL: Suspending until startup complete.
+Charm++> No provisioning arguments specified. Running with a single PE.
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Charm++: standalone mode (not using charmrun)
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+TCL: Suspending until startup complete.
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+TCL: Suspending until startup complete.
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+Converse/Charm++ Commit ID: v6.10.2-0-g7bf00fa-namd-charm-6.10.2-build-2020-Aug-05-556
+CharmLB> Load balancer assumes all CPUs are same.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Warning> Randomization of virtual memory (ASLR) is turned on in the kernel, thread migration may not work! Run 'echo 0 > /proc/sys/kernel/randomize_va_space' as root to disable it, or try running with '+isomalloc_sync'.
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0114354 s
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: Changed directory to /run_x86
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+TCL: Suspending until startup complete.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+CharmLB> Load balancer assumes all CPUs are same.
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: LOAD BALANCER  Centralized
+Info: CPU topology information available.
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: Charm++/Converse parallel runtime startup completed at 0.0132832 s
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: MIN ATOMS PER PATCH    40
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: VELOCITY FILE          04.restart.vel
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+CharmLB> Load balancer assumes all CPUs are same.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: NO VELOCITY DCD OUTPUT
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: NO FORCE DCD OUTPUT
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: OUTPUT FILENAME        prod01
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: ENERGY OUTPUT STEPS    1000
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: TIMING OUTPUT STEPS    10000
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: PRESSURE OUTPUT STEPS  1000
+Info: Optimizing 6 FFT steps.  1...Info: Optimizing 6 FFT steps.  1...Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Optimizing 6 FFT steps.  1...Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: CPU topology information available.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: Charm++/Converse parallel runtime startup completed at 0.0119323 s
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: Charm++/Converse parallel runtime startup completed at 0.0179306 s
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Optimizing 6 FFT steps.  1...Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Optimizing 6 FFT steps.  1...TCL: Suspending until startup complete.
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: Changed directory to /run_x86
+Info: Optimizing 6 FFT steps.  1...Info: Charm++/Converse parallel runtime startup completed at 0.0109497 s
+TCL: Suspending until startup complete.
+Charm++> Running on 1 hosts (2 sockets x 10 cores x 1 PUs = 20-way SMP)
+Charm++> cpu topology info is gathered in 0.000 seconds.
+Info: Optimizing 6 FFT steps.  1...Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: NAMD 2.14 for Linux-x86_64-multicore
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 61002 for multicore-linux-x86_64-iccstatic
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: Built Mon Aug 24 10:08:36 CDT 2020 by jim on belfast.ks.uiuc.edu
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: Optimizing 6 FFT steps.  1...Info: 45.6836 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+TCL: Suspending until startup complete.
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.0133222 s
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+TCL: Suspending until startup complete.
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: PAIRLISTS ENABLED
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: 1 NAMD  2.14  Linux-x86_64-multicore  1    cn496.scarf.rl.ac.uk  scarf1084
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+TCL: Suspending until startup complete.
+Info: CPU topology information available.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: Charm++/Converse parallel runtime startup completed at 0.0159924 s
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: Optimizing 6 FFT steps.  1...Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: Optimizing 6 FFT steps.  1...Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: Optimizing 6 FFT steps.  1...Info: Optimizing 6 FFT steps.  1...Info: Optimizing 6 FFT steps.  1...Info: Optimizing 6 FFT steps.  1...Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: Optimizing 6 FFT steps.  1...Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: Optimizing 6 FFT steps.  1...Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+TCL: Suspending until startup complete.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: Optimizing 6 FFT steps.  1...Info: Optimizing 6 FFT steps.  1...Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: 45.6875 MB of memory in use based on /proc/self/stat
+Info: Configuration file is /run_x86/dppc-p1.conf
+Info: Changed directory to /run_x86
+TCL: Suspending until startup complete.
+Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: Optimizing 6 FFT steps.  1...Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: Optimizing 6 FFT steps.  1...Info: EXTENDED SYSTEM FILE   04.restart.xsc
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  76.4399 0 0
+Info: PERIODIC CELL BASIS 2  0 75.9376 0
+Info: PERIODIC CELL BASIS 3  0 0 82.4353
+Info: PERIODIC CELL CENTER   -0.13 -0.15 -0.05
+Info: WRAPPING WATERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: VELOCITY FILE          04.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: Optimizing 6 FFT steps.  1...Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           prod01.dcd
+Info: DCD FREQUENCY          1000
+Info: DCD FIRST STEP         1000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           prod01.xst
+Info: XST FREQUENCY          1000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        prod01
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       prod01.restart
+Info: RESTART FREQUENCY      1000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 5
+Warning: MARGIN IS UNUSUALLY LARGE AND WILL LOWER PERFORMANCE
+Warning: MARGIN INCREASED PATCH VOLUME BY A FACTOR OF 2.26099
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        21
+Info: ENERGY OUTPUT STEPS    1000
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: PRESSURE OUTPUT STEPS  1000
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   323
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 1 INVERSE PS
+Info: LANGEVIN DYNAMICS APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 50 FS
+Info:     PISTON TEMPERATURE IS 323 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -3.39179e-05 6.81317e-05 -2.04198e-06
+Info:       CELL FLUCTUATION IS ANISOTROPIC
+Info:     CONSTANT AREA PRESSURE CONTROL ACTIVE
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     4
+Info: PME GRID DIMENSIONS         90 90 90
+Info: PME MAXIMUM GRID SPACING    1.5
+Info: Attempting to read FFTW data from FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: Optimizing 6 FFT steps.  1... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 2... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 3... 4... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 3... 4... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6... 5... 6...   Done.
+Info: Writing FFTW data to FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: FULL ELECTROSTATIC EVALUATION FREQUENCY      2
+Info: USING VERLET I (r-RESPA) MTS SCHEME.
+Info: C1 SPLITTING OF LONG RANGE ELECTROSTATICS
+Info: PLACING ATOMS IN PATCHES BY HYDROGEN GROUPS
+Info: RIGID BONDS TO HYDROGEN : ALL
+Info:         ERROR TOLERANCE : 1e-08
+Info:          MAX ITERATIONS : 100
+Info: RIGID WATER USING SETTLE ALGORITHM
+Info: RANDOM NUMBER SEED     1649777317
+Info: USE HYDROGEN BONDS?    NO
+Info: COORDINATE PDB         ionized.pdb
+Info: STRUCTURE FILE         ionized.psf
+Info: PARAMETER file: CHARMM format! 
+Info: PARAMETERS             par_all36_lipid.prm
+Info: PARAMETERS             par_all36_prot.prm
+Info: PARAMETERS             par_all27_prot_na.prm
+Info: USING ARITHMETIC MEAN TO COMBINE L-J SIGMA PARAMETERS
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+[Partition 0][Node 0] End of program
+   Done.
+Info: Writing FFTW data to FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: FULL ELECTROSTATIC EVALUATION FREQUENCY      2
+Info: USING VERLET I (r-RESPA) MTS SCHEME.
+Info: C1 SPLITTING OF LONG RANGE ELECTROSTATICS
+Info: PLACING ATOMS IN PATCHES BY HYDROGEN GROUPS
+Info: RIGID BONDS TO HYDROGEN : ALL
+Info:         ERROR TOLERANCE : 1e-08
+Info:          MAX ITERATIONS : 100
+Info: RIGID WATER USING SETTLE ALGORITHM
+Info: RANDOM NUMBER SEED     1649777317
+Info: USE HYDROGEN BONDS?    NO
+Info: COORDINATE PDB         ionized.pdb
+Info: STRUCTURE FILE         ionized.psf
+Info: PARAMETER file: CHARMM format! 
+Info: PARAMETERS             par_all36_lipid.prm
+Info: PARAMETERS             par_all36_prot.prm
+Info: PARAMETERS             par_all27_prot_na.prm
+Info: USING ARITHMETIC MEAN TO COMBINE L-J SIGMA PARAMETERS
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+[Partition 0][Node 0] End of program
+   Done.
+Info: Writing FFTW data to FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: FULL ELECTROSTATIC EVALUATION FREQUENCY      2
+Info: USING VERLET I (r-RESPA) MTS SCHEME.
+Info: C1 SPLITTING OF LONG RANGE ELECTROSTATICS
+Info: PLACING ATOMS IN PATCHES BY HYDROGEN GROUPS
+Info: RIGID BONDS TO HYDROGEN : ALL
+Info:         ERROR TOLERANCE : 1e-08
+Info:          MAX ITERATIONS : 100
+Info: RIGID WATER USING SETTLE ALGORITHM
+Info: RANDOM NUMBER SEED     1649777317
+Info: USE HYDROGEN BONDS?    NO
+Info: COORDINATE PDB         ionized.pdb
+Info: STRUCTURE FILE         ionized.psf
+Info: PARAMETER file: CHARMM format! 
+Info: PARAMETERS             par_all36_lipid.prm
+Info: PARAMETERS             par_all36_prot.prm
+Info: PARAMETERS             par_all27_prot_na.prm
+Info: USING ARITHMETIC MEAN TO COMBINE L-J SIGMA PARAMETERS
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+[Partition 0][Node 0] End of program
+   Done.
+Info: Writing FFTW data to FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: FULL ELECTROSTATIC EVALUATION FREQUENCY      2
+Info: USING VERLET I (r-RESPA) MTS SCHEME.
+Info: C1 SPLITTING OF LONG RANGE ELECTROSTATICS
+Info: PLACING ATOMS IN PATCHES BY HYDROGEN GROUPS
+Info: RIGID BONDS TO HYDROGEN : ALL
+Info:         ERROR TOLERANCE : 1e-08
+Info:          MAX ITERATIONS : 100
+Info: RIGID WATER USING SETTLE ALGORITHM
+Info: RANDOM NUMBER SEED     1649777317
+Info: USE HYDROGEN BONDS?    NO
+Info: COORDINATE PDB         ionized.pdb
+Info: STRUCTURE FILE         ionized.psf
+Info: PARAMETER file: CHARMM format! 
+Info: PARAMETERS             par_all36_lipid.prm
+Info: PARAMETERS             par_all36_prot.prm
+Info: PARAMETERS             par_all27_prot_na.prm
+Info: USING ARITHMETIC MEAN TO COMBINE L-J SIGMA PARAMETERS
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+[Partition 0][Node 0] End of program
+   Done.
+Info: Writing FFTW data to FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+   Done.
+Info: Writing FFTW data to FFTW_NAMD_2.14_Linux-x86_64-multicore.txt
+Info: FULL ELECTROSTATIC EVALUATION FREQUENCY      2
+Info: USING VERLET I (r-RESPA) MTS SCHEME.
+Info: C1 SPLITTING OF LONG RANGE ELECTROSTATICS
+Info: PLACING ATOMS IN PATCHES BY HYDROGEN GROUPS
+Info: RIGID BONDS TO HYDROGEN : ALL
+Info:         ERROR TOLERANCE : 1e-08
+Info:          MAX ITERATIONS : 100
+Info: RIGID WATER USING SETTLE ALGORITHM
+Info: RANDOM NUMBER SEED     1649777317
+Info: USE HYDROGEN BONDS?    NO
+Info: COORDINATE PDB         ionized.pdb
+Info: STRUCTURE FILE         ionized.psf
+Info: PARAMETER file: CHARMM format! 
+Info: PARAMETERS             par_all36_lipid.prm
+Info: PARAMETERS             par_all36_prot.prm
+Info: PARAMETERS             par_all27_prot_na.prm
+Info: USING ARITHMETIC MEAN TO COMBINE L-J SIGMA PARAMETERS
+FATAL ERROR: UNABLE TO OPEN CHARMM PARAMETER FILE par_all36_lipid.prm
+
+[Partition 0][Node 0] End of program
