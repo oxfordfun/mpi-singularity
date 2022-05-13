@@ -1,0 +1,269 @@
+#------------------------------------------------------------------------
+# Notes
+#------------------------------------------------------------------------
+# Set $SINGULARITY_CACHEDIR to /data/singularity for more diskspace available
+# to Yum
+
+BootStrap: library
+From: library://library/default/centos:7
+
+%post
+# set hostname
+echo "md" >> /etc/hostname
+
+# verify new hostname
+# cat /etc/hostname
+
+# enable DNS
+echo "nameserver 8.8.8.8" > /etc/resolv.conf
+
+# set no. of processes available @ system
+export NP=1
+
+#------------------------------------------------------------------------
+# Yum
+#------------------------------------------------------------------------
+
+# update system
+yum -y update && yum -y upgrade
+
+# add SCL repository
+yum -y install centos-release-scl
+
+# install packages incl. packages for InfiniBand and custom OpenMPI
+yum -y install bzip2 devtoolset-8 libglvnd-glx libXi libXi-devel \
+               libXinerama libXinerama-devel make openssh-server \
+               openssh-clients python3 scl-utils scl-utils-build tcl wget \
+               rdma libibverbs-devel libsysfs-devel infinipath-psm libcxgb3 libcxgb4 \
+               libipathverbs libmthca libmlx4 libmlx5 libnes libocrdma librdmacm \
+               librdmacm-utils ibacm libibverbs-utils infiniband-diags ibutils \
+               numactl numactl-devel numactl-libs environment-modules hwloc hwloc-libs \
+               hwloc-devel libfabric libpsm2 libfabric-devel
+
+# clean cached packages, repository metadata, package headers
+yum clean all
+
+#------------------------------------------------------------------------
+# Root access
+#------------------------------------------------------------------------
+
+echo 'root:root' | chpasswd
+
+#------------------------------------------------------------------------
+# SSH
+#------------------------------------------------------------------------
+
+mkdir     /run/sshd
+chmod 755 /run/sshd
+
+sed -ri 's/^#PermitRootLogin\s+.*/PermitRootLogin yes/' /etc/ssh/sshd_config
+sed -ri 's/UsePAM yes/# UsePAM yes/g'                   /etc/ssh/sshd_config
+
+#------------------------------------------------------------------------
+# GNU compiler toolchain
+#------------------------------------------------------------------------
+
+# enable GNU toolchain v8
+source /opt/rh/devtoolset-8/enable
+
+#------------------------------------------------------------------------
+# Open mpi x86
+#------------------------------------------------------------------------
+
+yum -y install openmpi
+yum -y install openmpi-devel 
+
+# set compiler environment variables
+export MPICC=mpicc
+export MPICXX=mpicxx
+export MPIFORT=mpifort
+export CC=gcc
+export CXX=g++
+export F77=gfortran
+export FC=gfortran
+
+#------------------------------------------------------------------------
+# Perl
+#------------------------------------------------------------------------
+
+# create Perl directory
+mkdir -p ~/install/perl && cd ~/install/perl
+
+# obtain Perl source code
+wget https://www.cpan.org/src/5.0/perl-5.34.0.tar.gz
+
+# extract Perl source code
+tar -xzvf perl-5.34.0.tar.gz && cd perl-5.34.0
+
+# configure Perl installation
+./Configure -des -Dprefix=/usr/local
+
+# compile, (test), install Perl
+# make -j $NP && make -j $NP test && make -j $NP install
+make -j $NP && make -j $NP install
+
+#------------------------------------------------------------------------
+# VMD
+#------------------------------------------------------------------------
+
+# create VMD directory
+mkdir -p ~/install/vmd && cd ~/install/vmd
+
+# download VMD source code
+export VMD_DISTRO=vmd-1.9.3.bin.LINUXAMD64-CUDA8-OptiX4-OSPRay111p1.opengl
+wget --no-check-certificate https://www.ks.uiuc.edu/Research/vmd/vmd-1.9.3/files/final/$VMD_DISTRO.tar.gz
+
+# extract VMD
+tar -xzvf $VMD_DISTRO.tar.gz
+
+# configure VMD installation
+cd vmd-1.9.3 && ./configure
+
+# install VMD
+cd src && make install
+
+#------------------------------------------------------------------------
+# NAMD
+#------------------------------------------------------------------------
+# create directories: install, namd
+mkdir -p ~/install/namd && cd ~/install/namd
+
+# download NAMD source code
+export NAMD_DISTRO=NAMD_2.14_Source
+wget --no-check-certificate https://www.ks.uiuc.edu/Research/namd/2.14/download/946183/NAMD_2.14_Source.tar.gz
+
+# extract NAMD
+tar -xzvf $NAMD_DISTRO.tar.gz && cd $NAMD_DISTRO
+
+# extract Charm++
+export CHARM_DISTRO=charm-6.10.2
+tar -xvf $CHARM_DISTRO.tar && cd $CHARM_DISTRO
+
+# compile Charm++
+export CFLAGS+=-pipe
+export FFLAGS+=-pipe
+export CXXFLAGS+=-pipe
+
+./build charm++ mpi-linux-x86_64 \
+--with-production --incdir=$OMPI_PATH/include --libdir=$OMPI_PATH/lib
+
+# test Charm++
+cd mpi-linux-x86_64/tests/charm++/megatest
+make -j $NP pgm
+mpiexec --allow-run-as-root --oversubscribe -n $NP ./pgm
+
+cd ../../../../..
+
+# download FFTW library
+wget http://www.ks.uiuc.edu/Research/namd/libraries/fftw-linux-x86_64.tar.gz
+tar -xzvf fftw-linux-x86_64.tar.gz
+mv linux-x86_64 fftw
+
+# download Tcl libraries
+wget http://www.ks.uiuc.edu/Research/namd/libraries/tcl8.5.9-linux-x86_64.tar.gz
+wget http://www.ks.uiuc.edu/Research/namd/libraries/tcl8.5.9-linux-x86_64-threaded.tar.gz
+
+tar -xzvf tcl8.5.9-linux-x86_64.tar.gz
+tar -xzvf tcl8.5.9-linux-x86_64-threaded.tar.gz
+
+mv tcl8.5.9-linux-x86_64 tcl
+mv tcl8.5.9-linux-x86_64-threaded tcl-threaded
+
+# setup build directory, compile NAMD
+./config Linux-x86_64-g++ --charm-arch mpi-linux-x86_64
+cd Linux-x86_64-g++
+make -j $NP
+
+# test NAMD installation
+./namd2 src/alanin
+./charmrun --allow-run-as-root --oversubscribe ++local +p$NP ./namd2 src/alanin
+
+wget http://www.ks.uiuc.edu/Research/namd/utilities/apoa1.tar.gz
+tar -xzvf apoa1.tar.gz
+./charmrun --allow-run-as-root --oversubscribe ++local +p$NP ./namd2 apoa1/apoa1.namd
+
+# prepare NAMD distribution
+make -j $NP release
+
+export NAMD_RELEASE=NAMD_2.14_Linux-x86_64-MPI
+ls -l $NAMD_RELEASE
+
+# prepare NAMD directory in /opt
+mkdir -p /opt/namd-2.14
+ln -fs /opt/namd-2.14 /opt/namd
+mkdir -p /opt/namd/bin /opt/namd/doc /opt/namd/lib
+
+# setup NAMD in /opt directory
+cp -frv $NAMD_RELEASE/lib/* /opt/namd/lib
+cp -frv $NAMD_RELEASE/*.txt /opt/namd/doc
+find $NAMD_RELEASE -maxdepth 1 -executable -type f -exec cp -frv {} /opt/namd/bin \;
+
+
+#------------------------------------------------------------------------
+# Environment variables
+#------------------------------------------------------------------------
+
+# set OpenMPI environment variables
+export OMPI_PATH=/usr/lib64/openmpi
+export PATH=$OMPI_PATH/bin:$PATH
+export LD_LIBRARY_PATH=$OMPI_PATH/lib:$LD_LIBRARY_PATH
+
+# VMD
+export VMD_PATH=/usr/local/bin
+export PATH=$VMD_PATH:$PATH
+
+# NAMD
+export NAMD_PATH=/opt/namd/bin
+export PATH=$NAMD_PATH:$PATH
+
+%runscript
+
+#------------------------------------------------------------------------
+# Start SSH daemon
+#------------------------------------------------------------------------
+
+# start SSH service
+# systemctl start sshd
+
+# check SSH daemon status
+# systemctl status sshd
+
+# enable SSH service
+# systemctl enable sshd
+
+/usr/sbin/sshd
+
+#------------------------------------------------------------------------
+# Verification
+#------------------------------------------------------------------------
+
+# verify Perl version
+perl --version
+
+# enable GNU toolchain v8
+source /opt/rh/devtoolset-8/enable
+
+# verify OpenMPI version
+mpicc --version && mpiexec --version
+
+# verify VMD directory structure
+ls -l /usr/local/bin
+ls -l /usr/local/lib
+
+# verify NAMD directory structure
+ls -l /opt/namd/bin
+ls -l /opt/namd/lib
+ls -l /opt/namd/doc
+
+#------------------------------------------------------------------------
+# System preparation
+#------------------------------------------------------------------------
+
+# ...
+
+%labels
+
+Author  Maksims Abalenkovs
+Email   maksims.abalenkovs@stfc.ac.uk
+Date    Nov 24, 2021
+Version 0.17
